@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Curriculum</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+<body>
+    <header>
+        <h1>Lourdes Burgos</h1>
+        <h2>Busco aprender nuevas habilidades, asumir nuevas responsabilidades para crecer profesionalmente</h2>
+        <h3>Lulyburgos1994@hotmail.com</h3>
+    </header>
+    <section>
+        <h2>Educación</h2>
+        <ul>
+            <li>Escuela Ricarda Ibarra - CIENCIAS BASICAS - 25/11/2009</li>
+            <li>COLEGIO NACIONAL EMD PARAGUARI - CIENCIAS BASICAS - 28/11/2012</li>
+            </ul>
+            <h2>Cursos</h2>
+            <ul>
+                <li>Administración y Creación de Empresas - SNPP 30/12/2013</li>
+                <li>Confección de Prendas Femeninas - SNPP 22/11/2022</li>
+                <li>Finanzas para MIPYNES - SNPP 09/12/2022</li>
+                <li>TELEMARKETING - SNPP 16/12/2022</li>
+                <li>Comercio Internacional - SNPP 20/12/2022</li>
+                <li>Portugués Basico-Medio-Avanzado - SNPP 04/08/2023</li>
+                <li>Secretariado Administrativo y Ejecutivo - SNPP 24/03/2023</li>
+                <li>Cajero Comercial - SNPP 19/06/2023</li>
+                <li>Auxiliar Administrativo - SNPP 05/08/2023</li>
+                <li>Portugués Técnico con Énfasis en Hotelería - SNPP 08/10/2023 </li>
+                <li>REDESI- Introdución a las Redes de Computadoras- SNPP 18/12/2023</li>
+                <li>Cloud Computing - SNPP 13/09/2024</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Experiencia laboral</h2>
+        <ul>
+            <li>ELECTROBAN - Vendedora - Febrero 2016 - Septiembre 2017</li>
+            <li>INVERFIN - Cobradora - Septiembre 2017 - Abril 2019</li>
+            <li>Transporte San Rafael - Chofer - Julio 2019 - Enero 2021</li>
+            <li>Flia. Servin - Chofer - Enero 2021 - Septiembre 2021</li>
+            <li>Supermercado Luisito - Cajera - Octubre 2021 - Abril 2022</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Honesta</li>
+            <li>Responsable</li>
+            <li>Amable</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Referencias</h2>
+        <ul>
+            <li>Atilio Nuñez - Jefe - Trasporte San Rafael - 0985372434</li>
+            <li>Liduvina Colman - RR.HH - Supermercado Luisito - 0986426581</li>
+        </ul>
+    </section>
+    <footer>
+    </footer>
+</body>
+</html>
